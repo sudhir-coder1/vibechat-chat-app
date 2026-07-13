@@ -80,7 +80,7 @@ class HomePage extends GetView<HomeController> {
             child: ListView.builder(
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
               itemCount: 8,
-              itemBuilder: (_, __) => Padding(
+              itemBuilder: (_,_) => Padding(
                 padding: const EdgeInsets.symmetric(vertical: 8),
                 child: Row(
                   children: [

@@ -793,10 +793,10 @@ class ChatController extends GetxController {
         ).then((_) {
           // After jumping, hopefully the item is now rendered. Try ensureVisible again!
           Future.delayed(const Duration(milliseconds: 50), () {
-            final ctx = itemKeys[key]?.currentContext;
-            if (ctx != null) {
+            final asw = itemKeys[key]?.currentContext;
+            if (asw != null && asw.mounted) {
               Scrollable.ensureVisible(
-                ctx,
+                asw,
                 duration: const Duration(milliseconds: 300),
                 curve: Curves.easeInOut,
                 alignment: 0.5,
