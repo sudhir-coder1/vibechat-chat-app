@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "63387064379",
+    "firebase_url": "https://vibechat-44775-default-rtdb.firebaseio.com",
+    "project_id": "vibechat-44775",
+    "storage_bucket": "vibechat-44775.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63387064379:android:65c0df81c59cd2964fa41e",
+        "android_client_info": {
+          "package_name": "vibechat.com.vibe_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63387064379-4r5fbchf9fc9diuihisp8baa4t3bp4cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vibechat.com.vibe_chat",
+            "certificate_hash": "9720fdd09fb0a2e20c0497f0894ac5bdfdb06ffc"
+          }
+        },
+        {
+          "client_id": "63387064379-7auqfhjbm9k21op0j1dimma17famkrpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vibechat.com.vibe_chat",
+            "certificate_hash": "188733c8a82985a4aafcdce69df578045907559f"
+          }
+        },
+        {
+          "client_id": "63387064379-dl56r043p6ig3f4su52mmebftd1vfv96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vibechat.com.vibe_chat",
+            "certificate_hash": "dccd4c35f30e60094d475b13acbad7d88a6b39e6"
+          }
+        },
+        {
+          "client_id": "63387064379-1a9h9pd6cmheuq9k87t14tjebjn86rqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwXUTx9Sh0MeVUE0X8tuB4MEgDgH41ywk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63387064379-1a9h9pd6cmheuq9k87t14tjebjn86rqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+# Flutter related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android related
+android/**/gradle-wrapper.jar
+android/.gradle
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/GeneratedPluginRegistrant.java
+
+# IDE related
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Sensitive files (DO NOT REMOVE)
+assets/service_account.json
+google-services.json
+vibe_chat/android/app/google-services.json
+*.jks
+*.keystore
+upload-keystore.jks
+firebase.json
+.metadata
+
+# OS related
+.DS_Store
